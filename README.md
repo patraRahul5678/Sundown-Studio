@@ -50,10 +50,10 @@ sundown-studio-clone/
 
 1. **Clone the repository**
 ```
-git clone https://github.com/your-username/sundown-studio-clone.git
+git clone [https://github.com/your-username/sundown-studio-clone.git](https://github.com/patraRahul5678/Sundown-Studio.git)
 ```
 2.**Navigate to the Project Folder**
 ```
-cd sundown-studio-clone
+cd Sundown-Studio
 ```
 
